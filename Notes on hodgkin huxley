@@ -1,1 +1,2 @@
-Hodgkin Huxley model of neuronal firing is utilized to predict various features of neuronal electrophysiology. In this code, I altered various parameters including sodium, potassium, and chloride conductances to test their affect on firing rates and threshold potentials. 
+Hodgkin Huxley model of neuronal firing is utilized to predict various features of neuronal electrophysiology. In this code, I altered 
+various parameters including sodium, potassium, and chloride conductances to test their affect on firing rates and threshold potentials. 
